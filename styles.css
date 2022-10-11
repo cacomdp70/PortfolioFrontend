@@ -1,0 +1,29 @@
+.panelnavflex {
+    display:flex;
+    justify-content: right;
+    box-align: right;
+    margin-left: 2em;
+    margin: 2em;
+    color: rgb(255, 255, 255);
+}
+.espacio {
+    margin-right: 1em;
+}
+
+.titulo{
+    text-align: center;
+    font-size: x-large;
+}
+
+body{
+    background-image: url("Imagenes/screen-0.jpg");
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
